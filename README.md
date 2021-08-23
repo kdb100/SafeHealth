@@ -1,2 +1,2 @@
 # SafeHealth
-SCs for Ethereum & Binance: Machine Learning & Healthcare
+SCs for Ethereum & Binance Blockchain: Machine Learning in  Healthcare
